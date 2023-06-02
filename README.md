@@ -6,7 +6,7 @@ Jogo feito com HTML, CSS e JavaScript que consiste em tentar acertar o número s
 
 # 📁 Acesso ao projeto
 
-Você pode <a href="https://github.com/DaviRSS1/jogo-numero-secreto/archive/refs/heads/main.zip">baixá-lo</a> ou <a href="https://jogo-numero-secreto-kappa-seven.vercel.app/">abrir o link</a>.
+Você pode <a href="https://github.com/DaviRSS1/jogo-numero-secreto/archive/refs/heads/main.zip" target="_blank">baixá-lo</a> ou <a href="https://jogo-numero-secreto-kappa-seven.vercel.app/">abrir o link</a>.
 
 # 🛠️ Abrir e rodar o projeto
 
